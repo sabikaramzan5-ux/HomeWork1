@@ -1,0 +1,15 @@
+C:\Users\User\HomeWork1\HomeWork1\bin\Debug\net10.0\HomeWork1.exe
+C:\Users\User\HomeWork1\HomeWork1\bin\Debug\net10.0\HomeWork1.deps.json
+C:\Users\User\HomeWork1\HomeWork1\bin\Debug\net10.0\HomeWork1.runtimeconfig.json
+C:\Users\User\HomeWork1\HomeWork1\bin\Debug\net10.0\HomeWork1.dll
+C:\Users\User\HomeWork1\HomeWork1\bin\Debug\net10.0\HomeWork1.pdb
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.AssemblyInfo.cs
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.dll
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\refint\HomeWork1.dll
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.pdb
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.genruntimeconfig.cache
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\ref\HomeWork1.dll
+C:\Users\User\HomeWork1\HomeWork1\obj\Debug\net10.0\HomeWork1.csproj.Up2Date
